@@ -117,9 +117,7 @@ Menganalisis dampak sosial dari setiap isu berdasarkan populasi masyarakat terda
 ---
 
 ## 📸 Dashboard Preview
-> *Berisi tampilan dashboard Power BI yang menunjukkan Overview, Issue & Case, serta Demographic & Impact Page.*
-
-*(Tambahkan screenshot dashboard di folder repository dan tampilkan di sini)*
+![Overview Dashboard](Dashboard Images/Overview.png)
 
 ---
 

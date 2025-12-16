@@ -117,7 +117,7 @@ Menganalisis dampak sosial dari setiap isu berdasarkan populasi masyarakat terda
 ---
 
 ## 📸 Dashboard Preview
-![Overview Page](Dashboard Images/Overview.png)
+![Overview Page](Dashboard%20Images/Overview.png)
 
 ---
 
